@@ -15,3 +15,8 @@ plik= open(nazwa, 'r')
 print(sum(linia(plik, separator, kolumna)))
 plik.close()
 
+def kalkulator (a,b, operacja):
+    pass
+
+def operacja (x,y):
+    return (x + y)
